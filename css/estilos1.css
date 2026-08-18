@@ -1,0 +1,30 @@
+body{
+    background-color:#4BE5FA;
+}
+h1{
+    background-color: aquamarine;
+    color: blue;
+}
+p{
+    background-color: yellow;
+    color: orangered;
+}
+img{
+    width: 100px;
+    height:100px;
+}
+.primero{
+    background-color: red;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.medio{
+    background-color: yellow;
+    color: black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.final{
+    background-color: green;
+    color:black;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
